@@ -1,0 +1,2 @@
+# Il manifest contiene lo SHA-256 di catalog.json: i file non devono cambiare di un byte.
+*.json -text
